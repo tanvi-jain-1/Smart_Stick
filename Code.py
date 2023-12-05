@@ -1,0 +1,1 @@
+print("Sample code for Smart Stick")
